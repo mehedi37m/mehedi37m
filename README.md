@@ -1,30 +1,32 @@
-### Hi there 👋, Md Mehedi Hasan
-#### Web Developer
-![Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/279172723_1296267074230205_5574690744629642799_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeE3qd6kzW7WpmqIvvTqSw4u_LBHNM4lXmj8sEc0ziVeaJmJFK0ySy34FzSRB8Y7csTu5U2lPNNPg20y-RRLPKEO&_nc_ohc=ZaJwSLohp1YAX_9R8Yo&_nc_ht=scontent.fdac41-1.fna&oh=00_AT9ZLVb8WkinCIMcWCClEl1Oi4RfQ3U1lvN8zB8G1aOLrg&oe=62FB82BA)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Skills: C/ REACT / JS / HTML / CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi37m&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi37m" /> </p>
 
-- 🔭 I’m currently working on on Email marketing 
-- 🌱 I’m currently learning java and python 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development 
-- 📫 How to reach me: mz.mehedi37@gmail.com 
-- 😄 Pronouns:  Want to be a Web Develpoer 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi37m" alt="mehedi37m" /></a> </p>
 
+- 🔭 I’m currently working on **Track Bank**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mehedi37m)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bindaas.mehedi.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bindaasmehedi//)  
+- 🌱 I’m currently learning **Web development**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **Android**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi37m)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **mz.mehedi37@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi37m&show_icons=true&count_private=true)  
+- ⚡ Fun fact **I am Funny**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehedi37m)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/mehedi-hasan-137863227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mehedi-hasan-137863227" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/bindaas.mehedi.5?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bindaas.mehedi.5?mibextid=zbwkwl" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/mehedi37m)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehedi37m)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi37m&show_icons=true&locale=en&layout=compact" alt="mehedi37m" /></p>
 
-![Profile views](https://gpvc.arturio.dev/mehedi37m)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi37m&" alt="mehedi37m" /></p>
